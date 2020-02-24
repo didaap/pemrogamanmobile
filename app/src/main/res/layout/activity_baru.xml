@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="16dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:lineSpacingExtra="8sp"
+        android:paddingTop="20dp"
+        android:text="@string/nama_band"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textColor="#020202"
+        android:textSize="20sp"
+        android:textStyle="italic" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="match_parent"
+        android:layout_height="306dp"
+        android:contentDescription="@string/hit_image"
+        android:paddingTop="0dp"
+        tools:srcCompat="@tools:sample/backgrounds/scenic[15]" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="352dp"
+        android:text="@string/tentang_text"
+        android:textColor="#18465C"
+        android:textColorLink="#F44336" />
+
+
+</LinearLayout>

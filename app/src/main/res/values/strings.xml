@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AboutOtomotif</string>
+    <string name="nama_band">Otomotif</string>
+    <string name="hit_image">ini foto motor</string>
+    <string name="tentang_text">Teknik otomotif adalah salah satu cabang ilmu teknik mesin yang mempelajari tentang bagaimana merancang, membuat dan mengembangkan alat-alat transportasi darat yang menggunakan mesin, terutama sepeda motor, mobil, bis dan truk. Teknik otomotif menggabungkan elemen-elemen pengetahuan mekanika, listrik, elektronik, keselamatan dan lingkungan serta matematika, fisika, kimia, biologi dan manajemen.
+        Cabang-cabang dari teknik otomotif meliputi: \n\n\n
+        Perencanaan (product atau design)
+        Pengembangan (development)
+        Produksi (manufacturing)
+        Perawatan (maintenance)\n\n\n
+        Di Indonesia saat ini cabang yang sangat berkembang adalah perawatan dan umumnya mengenai perawatan mobil dan sepeda motor. </string>
+</resources>
